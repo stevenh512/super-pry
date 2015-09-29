@@ -1,21 +1,21 @@
 ##### Signed by https://keybase.io/stevenh512
 ```
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Version: GnuPG v1
 
-iQIcBAABAgAGBQJUeBCCAAoJELhD5v2NN/3pCS8P/26XI4AkNFt0uJ6bGEp2lLzz
-EIp6TCTFN04iF3TxI12W982VwfdQQFlCM+7RsRQuezFKS3qKwFxZVLQnvqf3oNJ8
-VeBHtoTG9I+2zu5InVfSWNG7cvnZ5fF9qA4jf0wdbFsulJfs4fKlKgkcwEiJ0/iR
-SuDfoc735+bGcQ9dkH/hyZgaV95obQo+CNolm+InJka9emPMM4boM9eItDZPs8kN
-7Gnky5IQ96EgGuWHKi7gD5gaiSnDho3Yle2ilrmFsgOD1EG/WD/eU+lQ//PInOO8
-A3d1PtF7FpfPFD9Aei41DWnEf1IoLCIIMSxYmaam+Sq7xA7p59RGdzu3w5wI8FgE
-2eh04QxiJazer0UfPmh5siSblO/thrHd1zwmPfQWe/PLzkS4MX96mSihZhrGU5CK
-PrSLex7WShG0s2FHJ/yvXOMsvTvmlAO3qt7JDJi8Rpr645dw9hRbv+szgI7Yp5OG
-QuwYVThW9GpJQ2aDxg0iEqOhdLwNyUBejDivVQvhFlf9VnhZ2IETdkcAK/E7YzdT
-YRzPB0OSFJ9zdo6Tb507jWlfi+CiOaEjKxeQ7fGlMrkjjuUQrYXW8AEvwAWr2gGR
-KMpt3o9N4Ga6Z7C80cWqn+Ch3MqCx6X0+MWTtPthAf7K1Lb1vhAqUtn02odBm7Mm
-1EbMM/b4/veNamR22UnO
-=pdr7
+iQIcBAABAgAGBQJWCiQ8AAoJELhD5v2NN/3pE7IQAKoNZj/CMBWOgfBxjFWSCTfE
+1BcXLYpcCmaTlNx3jK3USUTGhUtM88Awgc+GQqdP1BNZXpN3AxeAHqjR0eF7zJf8
+d0x9Ag4i5poEzrSXCfyoCf/9eciha3Igewm2tRp4Ra7k5rBNUm0gMwRwpRW/HN6p
++DjvH+XdBEUgOaMOgNuz1UuXpZNg0vDgNMR8XOoYpL4IlThC9o4KJ6XpmG1AnB5x
+tlDtXlSMHSYlS+qaxS05pL3f90Hv6jt4je8l0/6+cKpYSeWB76KZgSgsBhMOyf2G
+H57uuoVQZkbhUDK1wrVkk6xOSEcWTfwoYilTH5G16hRZV5zTnV19kGUBChMrMFMK
+DfOvSxZ+6RIHfkRouJsb7TpJ3rZIfo0MzikVWM9gVDkEkwDgyDEBg4MtHPp+ywol
+3Y3aP0JfURtUNfCmCyY3VJFzuovc2C5m6siV8RZf/1DFcHXNtHbpwLsxPuZ2/bMV
+aT0dKnz6S3l0/CHHa2gPF2Oix/GnUHjJiubqodrVpitoiqjqSIy4GulpkNhZnzxt
+js+8Tp++VMACD2EuB5iixUvL/3NiS8Uz/qfyr4XzYKbVsTp7VXq8ea9Yor/yPTa0
+q0NT1a4k6uqLUrsjEIC+piEEMKqtx9yGGGJOzww+77Ub/fjEcjgkwTEFCE9FbiQa
+gQyAowlwolPAvp32tLX0
+=fQ2S
 -----END PGP SIGNATURE-----
 
 ```
@@ -37,17 +37,14 @@ size  exec  file                 contents
 153           Rakefile           1565a2aa32cad27e159f071fc9507538f95186abde48cda943945f4aa0b82b98
               bin/                                                                               
 50    x         spry             03d31bbd930c7b941ef6ebb9f7794436df7df5a658b22380643761b65f975382
-              certs/                                                                             
-1265            certificate.pem  eacee873028d19331827983f7062d381c70413004be3054697d89085dd252539
               lib/                                                                               
                 super-pry/                                                                       
-58                version.rb     d94972eb1a5395d755f35bda09a977f0dcf0a68c078924d842c0b38a42189c41
-349             super-pry.rb     a98c9f0312f3bc544f9d0e396cc6225e251ad3fef90f90136d595aa5328af650
+58                version.rb     07f8e4d5da2fc5bb22dbec121fc1d2e96fa3cd889ed76ddc653c2677ce8b4cbd
+331             super-pry.rb     27a6553742d1ea9b532750da5db0a973caa95c786d5adf7ac9e4d4561d638151
 9419          pubkey.asc         dbc732c4e2caec6b98177a5e23690b0729cde1ac97018708ca2528395827b17f
               script/                                                                            
 25    x         bootstrap        ca2bab340cac051bbe2ace4bef1126108e91fbdf39f23f8a1636a567272ce632
-1523          super-pry.gemspec  f5db569e5c8294e26dfde0e081f44c2ae1cad4cd0a476f244629a13faa0e70af
-              vendor/                                                                            
+1358          super-pry.gemspec  ee595fa51acc05ea4531806c2813ca175c5818cbd4295eddaf21ae000af6fbf1
 ```
 
 #### Ignore

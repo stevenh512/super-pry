@@ -18,16 +18,12 @@ Gem::Specification.new do |spec|
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ["lib"]
 
-  spec.cert_chain  = ['certs/certificate.pem']
-  spec.signing_key = File.expand_path("~/.ssh/gem-private_key.pem") if $0 =~ /gem\z/
-
   spec.add_dependency 'awesome_print'
   spec.add_dependency 'bond'
   spec.add_dependency 'pry'
   spec.add_dependency 'pry-byebug'
   spec.add_dependency 'pry-doc'
   spec.add_dependency 'pry-docmore'
-  spec.add_dependency 'pry-git'
   spec.add_dependency 'pry-highlight'
   spec.add_dependency 'pry-pretty-numeric'
   spec.add_dependency 'pry-rescue'
