@@ -14,21 +14,11 @@ Gem::Specification.new do |spec|
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
-  spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
+  spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ["lib"]
 
-  spec.add_dependency 'awesome_print'
-  spec.add_dependency 'bond'
-  spec.add_dependency 'pry'
-  spec.add_dependency 'pry-byebug'
-  spec.add_dependency 'pry-doc'
-  spec.add_dependency 'pry-docmore'
-  spec.add_dependency 'pry-highlight'
-  spec.add_dependency 'pry-pretty-numeric'
-  spec.add_dependency 'pry-rescue'
-  spec.add_dependency 'pry-stack_explorer'
-  spec.add_dependency 'pry-theme'
+  spec.add_dependency 'jazz_fingers'
 
   spec.add_development_dependency 'bump'
   spec.add_development_dependency 'bundler', '~> 1.6'
