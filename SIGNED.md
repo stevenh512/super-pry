@@ -3,19 +3,19 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.22 (GNU/Linux)
 
-iQIcBAABAgAGBQJXBJpHAAoJELhD5v2NN/3pBVwQAJf4I1WXl4y0pDQZv0smXLRX
-h/Vo6kIIYKvtg367wVtN1aoW+zaYRxVrLuDPrxPYEtld+NVtwkIG/EimFHVHVYvx
-X6wgfaRkiQpsjhH7QVeCyPRed97E7wMe8/2Shy8KKhaRnKj0Lkfux/dWu4IARarq
-ipP2mVCqcKFaLtw4GOz32JLqGPrdAJfnzvpTwg7rC98KXRQOZclOCUXVSIU+HU+K
-1GmJAPdI5bZ0DQKxWhnNEFysbcjqvY8kvTOnmcwLSPJjQt05tSEYpxn6R5ne6J7B
-jk/VKUYFUzncSvXH2Jv2kTxdDELmhPdFgxoZ26WZnl338ybF5HSVkTeqniEqCerX
-aamLzcDcY5+tscec35kUFSRJ37GADko6to0FzzKibUk/7c5EbnEsXSSyS15RLbFs
-q9gQmfwhyGGDI5B4scpWFs7AJI9qIbOwkro8uxDBAtD0JCL2LZUiVHRXNsC3M4st
-Aa3BBvjHVSAIAX1GMiUgEAGJVr8g29Rk5FgnE7fux9CSvgbif+/cU4kk+x1KYXd4
-8x6jgEds1dU/TFwMCoFrzE5hFa6jyIk4k51E7Elo3/LLmopc9Z2wZe2EiRhgjLd1
-hO3dTOqFziyRvraWgErSTBy0w5f/DWkxlgnPI9aIORMTU9j3C9QhM97PV+D1Zu9M
-D7JFzNhhiII9p/5c7jeH
-=Pswq
+iQIcBAABAgAGBQJXBJr1AAoJELhD5v2NN/3paMcP/1envPxtTqYoGqg3w7kLwhTh
+4wZH0igB/HnnWnVjfk+dgCwDNijEeR4ZnCHHR6FDz4gwClPWNIhGWh7jbblxfFwf
+56HHaz45H5ogCOfSoRmcBSyGIbx/DDLm65Ctb9elGhKFOKKD7gOEkNM0zSvgY3lh
+FRu9h5ekvPYPSrmeZqSTBqkZYbVhsDj4x2VHeper6PwLvssqPX6BWPlYcKsT7b3L
+HCcc+jDhwZ46NbqjVg9PSAvcrQTXk1w3DFAj1jL7+QhL47yxfeAMs+TKdHlxCP5Q
+0l9cJTXagpVTv7T/dzIFCx7qpnvIPuqyZcisjWk/IaMhsOCpHB2Fzj48JdDDCPkM
+aeii9lhZMQaLAlxzlN5LfrfVaUom3H6gWuZVnrdEQfsT2ygcKpUT6wBQs7xFWOCm
+JTHrDT7MdUxY6XMFpFY85eGMX8FzZkrHxp8PtSiY/0eWvUPpPaDP424OMAmQ3029
+BkzNXz1+Jyey2DcFabSrWyYO5uAxHSqax/omw1mslrq2CvECphwR15ZQxrTFSTug
+vuCLoMAMtkLyUrQsT9OasW+1shokBBHfcxEjCJW3c89QeD7eJWQ7svgjKUwQy2Gv
+BGSpK0rzDWXZkbhRjEOqXpBvdKpL89sWkQPxgEo/nfLGshNHu0Y1Ov7iHCwcurFe
+cZVugK6VhsIAwiYbx1as
+=5zxA
 -----END PGP SIGNATURE-----
 
 ```
@@ -36,7 +36,7 @@ size  exec  file                 contents
 94            Gemfile            5999478629922eb9a70873893580b8d2b82456a291b8f5acc83c256e0a747aa7
               lib/                                                                               
                 super-pry/                                                                       
-58                version.rb     07f8e4d5da2fc5bb22dbec121fc1d2e96fa3cd889ed76ddc653c2677ce8b4cbd
+58                version.rb     a9330c1bfd066c5956352209a1744cd192a864165be87b15bdbaf6786fe41523
 37              super-pry.rb     85c3af4a2e0134be47bb635d23fb9e0bc8a599e3819ee8d22b3ef6ed714a9c21
 1071          LICENSE.txt        c5d5e05bc9b21492c9973efc45034113304bc16f3b360790fddfe3140dba118a
 9419          pubkey.asc         dbc732c4e2caec6b98177a5e23690b0729cde1ac97018708ca2528395827b17f
